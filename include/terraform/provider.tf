@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  credentials = file("creds.json")
+  credentials = file("../../include/creds.json")
   project     = var.project_id
   region      = "us-central1"
   zone        = "us-central1-a"
