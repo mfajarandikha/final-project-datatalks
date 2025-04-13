@@ -9,10 +9,10 @@ airflow-webserver.pid
 webserver_config.py
 airflow.cfg
 airflow.db
-youtube_live_streams.csv
 key.json
-creds.json
+include/creds.json
 gcloud init
 .terraform
 exec -l 
 .terraform.lock.hcl
+
