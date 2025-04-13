@@ -1,7 +1,0 @@
-# Core Python packages
-google-api-python-client
-pandas
-requests
-
-# Airflow Providers (GCP-related only, Bash is part of Airflow core)
-apache-airflow-providers-google
